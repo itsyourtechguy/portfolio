@@ -1,5 +1,4 @@
 import { useState } from "react";
-import { resume } from "../Resume/Resume";
 import "./Navbar.css";
 
 function Navbar({ setActiveSection }) {
