@@ -3,7 +3,7 @@ import "./Navbar.css";
 
 function Navbar({ setActiveSection }) {
   const [menuOpen, setMenuOpen] = useState(false);
-  const resumeLink = "https://itsyourtechguy.github.io/resume/";
+  const resumeLink = "";
 
   const toggleMenu = () => {
     setMenuOpen(!menuOpen);
